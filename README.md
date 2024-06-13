@@ -31,6 +31,11 @@ By the end of the program, students will be able to:
 - Analyze digital marketing performance using web analytics tools.
 - Formulate and implement comprehensive digital marketing strategies.
 
+# Explore the Openn DDM Curriculum
+
+- [Module 1: Introduction to digital marketing](M1/Intro.md)
+
+
 # Admission and Enrollment
 
 **Eligibility:** 
