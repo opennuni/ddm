@@ -15,5 +15,5 @@
 - [Paid search engine marketing](https://opennuni.github.io/ddm/M1/L7/psem.html)
 - [Creating A Digital Strategy](https://opennuni.github.io/ddm/M1/L8/cds.html)
 
-# Lesson 1: Introduction to Digital Marketing
-- 
+
+© Openn University initiated under [ECL-1.0](#) [AFL-3.0](#) 
