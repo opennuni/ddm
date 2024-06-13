@@ -38,6 +38,48 @@ By the end of the program, students will be able to:
 - [Module 1: Introduction to digital marketing](M1/Intro.md)
 
 
+# Core Modules:
+
+***Introduction to Digital Marketing:***
+
+    - Overview of digital marketing principles and the digital landscape.
+    - Understanding the role and importance of digital marketing in today's business environment.
+
+***Search Engine Optimization (SEO):***
+
+    - Techniques for improving website visibility and ranking on search engines.
+    - Keyword research, on-page and off-page optimization, and SEO tools.
+
+***Content Marketing:***
+
+    - Strategies for creating and distributing valuable content to attract and engage target audiences.
+    - Content creation, content curation, and content marketing platforms.
+
+***Social Media Marketing:***
+
+    - Utilizing social media platforms to promote brands and engage with customers.
+    - Social media strategies, content planning, and analytics.
+
+***Pay-Per-Click (PPC) Advertising:***
+
+    - Fundamentals of PPC advertising and how to create effective campaigns.
+    - Google Ads, keyword selection, ad copywriting, and bidding strategies.
+
+***Email Marketing:***
+
+    - Crafting and executing successful email marketing campaigns.
+    - Email design, segmentation, automation, and analytics.
+
+***Web Analytics:***
+
+    - Using web analytics tools to measure and improve digital marketing performance.
+    - Google Analytics, metrics tracking, and data-driven decision making.
+
+***Digital Marketing Strategy:***
+
+    - Developing comprehensive digital marketing strategies aligned with business goals.
+    - Integrating various digital marketing channels and measuring ROI.
+
 # Admission and Enrollment
 
 ***Eligibility:*** 
