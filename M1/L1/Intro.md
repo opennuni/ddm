@@ -6,3 +6,4 @@
 
 ***Topics that will be covered in this module***
 
+- [Introduction to Digital Marketing](https://opennuni.github.io/dit/M1/L1/intro.html)
