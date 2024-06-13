@@ -1,3 +1,5 @@
+<img src="./img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
+
 # Openn University
 
 # Diploma in Digital Marketing
@@ -57,5 +59,4 @@ Contact Us: For more information, visit our Contact Page or email us at support.
 Open University - Together, We Make Learning Limitless.
 
 
-© Openn University initiated under ECL-1.0 AFL-3.0
-
+© Openn University initiated under [ECL-1.0](#) [AFL-3.0](#) 
