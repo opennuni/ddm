@@ -103,7 +103,7 @@ Transform your career and become a digital marketing expert with the Openn Diplo
 
 Contact Us: For more information, visit our Contact Page or email us at support.opennddm@onmail.com
 
-Open University - Together, We Make Learning Limitless.
+Openn University - Together, We Make Learning Limitless.
 
 
 © Openn University initiated under [ECL-1.0](#) [AFL-3.0](#) 
