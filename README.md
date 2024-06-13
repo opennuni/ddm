@@ -40,15 +40,20 @@ By the end of the program, students will be able to:
 
 # Admission and Enrollment
 
-**Eligibility:** 
+***Eligibility:*** 
 
 Open to anyone with an interest in digital marketing. No prior experience is required.
 
 
-**Enrollment Process:**
+***Enrollment Process:***
 
 - Visit the Open University website and browse the [Digital Marketing Diploma Program](#).
 - Start learning at your own pace and access course materials anytime, anywhere.
+
+***Recognition and Accreditation:***
+
+- Upon completion, students receive an Openn Diploma in Digital Marketing, which is recognized by participating institutions and can enhance employment prospects. Upon completion you can mail us at [accredit.opennuni@onmail.com](mailto:accredit.opennuni@onmail.com)
+- ***Note*** that before sending us the email access the round phase of Openn DDM for the completion of the DDM via visiting at [opennuniddm.pages.dev](https://opennunidit.pages.dev)
 
 # Start Your Journey Today
 
