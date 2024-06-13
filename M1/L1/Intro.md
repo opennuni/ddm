@@ -1,3 +1,8 @@
 # Module 1: Introduction in Digital Marketing & SEO
 
-The first lesson in your Professional Diploma lays a solid foundation for what Digital Marketing and Performance Marketing is. You'll learn frequently used terms in the industry, understand what objectives and KPIs are and we go through a few examples of performance-focused channels for different common objectives.
+ Starting from Introduction to digital marketing in Module 1 ranges from tracking and KPIs, to free marketing options and digital strategy. Implementation of SEO, Affiliates, eCommerce, Google Ads, content development and campaign creation from start to finish are just some of the knowledge / skills you'll walk away with on completion of this course. Our 2nd module focuses exclusively on SEO, including fundamental tools and website requirements, keyword research and content, link building, analysis and optimisations. In a world where digital skills are in hot demand, use this course to up your game or give you the confidence to try something new.
+
+# Content of this Module
+
+***Topics that will be covered in this module***
+
