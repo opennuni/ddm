@@ -6,7 +6,7 @@
 
 ***Topics that will be covered in this module***
 
-- [Introduction to Digital Marketing](https://opennuni.github.io/ddm/M1/L1/intro.html#L1)
+- [Introduction to Digital Marketing](#L1)
 - [Setting Goals](https://opennuni.github.io/ddm/M1/L2/sg.html)
 - [Tracking digital marketing KPI's](https://opennuni.github.io/ddm/M1/L3/kpi.html)
 - [Reaching the target market](https://opennuni.github.io/ddm/M1/L4/tm.html)
