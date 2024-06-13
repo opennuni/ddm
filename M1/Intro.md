@@ -6,14 +6,14 @@
 
 ***Topics that will be covered in this module***
 
-- [Introduction to Digital Marketing](#Lesson-1-Introduction-to-Digital-Marketing)
-- [Setting Goals](https://opennuni.github.io/ddm/M1/L2/sg.html)
-- [Tracking digital marketing KPI's](https://opennuni.github.io/ddm/M1/L3/kpi.html)
-- [Reaching the target market](https://opennuni.github.io/ddm/M1/L4/tm.html)
-- [Marketing Options](https://opennuni.github.io/ddm/M1/L5/mo.html)
-- [Content Development](https://opennuni.github.io/ddm/M1/L6/cd.html)
-- [Paid search engine marketing](https://opennuni.github.io/ddm/M1/L7/psem.html)
-- [Creating A Digital Strategy](https://opennuni.github.io/ddm/M1/L8/cds.html)
+- [Introduction to Digital Marketing](https://opennuni.github.io/ddm/M1/L1/L1.html)
+- [Setting Goals](https://opennuni.github.io/ddm/M1/L2/L2.html)
+- [Tracking digital marketing KPI's](https://opennuni.github.io/ddm/M1/L3/L3.html)
+- [Reaching the target market](https://opennuni.github.io/ddm/M1/L4/L4.html)
+- [Marketing Options](https://opennuni.github.io/ddm/M1/L5/L5.html)
+- [Content Development](https://opennuni.github.io/ddm/M1/L6/L6.html)
+- [Paid search engine marketing](https://opennuni.github.io/ddm/M1/L7/L7.html)
+- [Creating A Digital Strategy](https://opennuni.github.io/ddm/M1/L8/L8.html)
 
 ***[Start here with Lesson 1 Introduction to Digital Marketing 👉]***(https://opennuni.github.io/ddm/M1/L1/L1.html)
 
